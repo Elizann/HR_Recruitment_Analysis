@@ -112,7 +112,12 @@ To build a comprehensive recruitment analytics dashboard that enables stakeholde
 ---
 
 # 📷 Dashboard Preview
-(Add dashboard screenshots here)
+<img width="1312" height="707" alt="image" src="https://github.com/user-attachments/assets/425a676e-c19c-46f3-8428-b10e116fba87" />
+<img width="1312" height="727" alt="image" src="https://github.com/user-attachments/assets/79a14e9d-2e38-4f6f-a2be-320c962f404a" />
+<img width="1313" height="722" alt="image" src="https://github.com/user-attachments/assets/1a1f688b-311e-48a6-88b8-096e5b63b0a6" />
+<img width="1312" height="735" alt="image" src="https://github.com/user-attachments/assets/8f544c8d-b231-4dad-86fb-64138fe09c1e" />
+<img width="1312" height="731" alt="image" src="https://github.com/user-attachments/assets/c02a9377-1814-4068-9fd9-f6bd19208d18" />
+<img width="1312" height="735" alt="image" src="https://github.com/user-attachments/assets/199af663-d43e-4e80-ae52-ffe25cc153da" />
 
 ---
 
